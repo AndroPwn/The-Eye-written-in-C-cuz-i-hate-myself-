@@ -17,7 +17,7 @@ sudo apt install libgtk-3-dev build-essential
 You cannot compile this like a normal C program; you must link the GTK libraries and the math library:
 Bash
 
-gcc eye_payload.c -o eye_sim `pkg-config --cflags --libs gtk+-3.0` -lm
+gcc ascii_eye.c -o eye_sim `pkg-config --cflags --libs gtk+-3.0` -lm
 
 How to Use
 
