@@ -25,4 +25,4 @@ How to Use
 
     Click: Hold Left-Click on the eye to scatter the ASCII characters
 
-Since you uploaded the binary (the compiled file), keep in mind that it will likely only work for people running the exact same OS and architecture as you. If someone on Windows tries to run your Linux binary, it won't work. That’s why the "Requirements" section above is so important—it lets them "cook" the program themselves
+
